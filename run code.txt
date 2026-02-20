@@ -1,0 +1,19 @@
+cd Aptitude
+streamlit run AptiApp.py
+
+cd Aptitude
+streamlit run InteractiveDashboard.py
+
+cd CodingPract
+streamlit run DSA_app_db.py
+
+cd CodingPract
+streamlit run  DSA_dash.py
+
+cd MockInter
+streamlit run app.py
+
+cd ResumeATS
+streamlit run app.py
+
+start index.html
