@@ -1,4 +1,4 @@
-# 🎓 CampusLink – Smart Placement Portal.
+# 🎓 CampusLink – Smart Placement Portal
 
 CareerConnect is an integrated **AI-powered platform** designed to streamline and elevate the campus placement experience for **students**, **training and placement officers (TPOs)**, and **recruiters**.
 
