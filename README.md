@@ -126,7 +126,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ---
 
-### Steps
+### Steps....
 
 1. **Clone the repository**
 
