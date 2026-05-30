@@ -169,7 +169,7 @@ streamlit run app.py
 
 4. **Launch the frontend**
 
-Open `index.html` in a browser.
+Open `index.html` in a browser
 
 ---
 
